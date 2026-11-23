@@ -32,6 +32,9 @@ A multi-agent AI system that combines LLMs, semantic retrieval, and personalized
 
 ## 🤝 Connect
 
-I'm interested in collaborating on meaningful AI/ML projects and connecting with other developers and researchers.
+I'm always open to collaborating on AI/ML projects,
+discussing new technologies, and connecting with
+fellow developers and researchers.
 
-[GitHub](https://github.com/anishnair2703)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anish-nair-255087220/)
+- 💻 [GitHub](https://github.com/anishnair2703)
